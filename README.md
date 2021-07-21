@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whale-guru-dev&" alt="whale-guru-dev" /></p>
 
-<p><img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1023?logoColor=white%26project=%26recentMS=0%26showProject=false" /></p>
+<p><img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1906?logoColor=white%26project=%26recentMS=0%26showProject=false" /></p>
