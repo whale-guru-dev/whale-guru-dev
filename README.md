@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Whale-Guru-Dev {/vary-able}</h1>
+<h1 align="center">Hi 👋, I'm a Whale-Guru-Dev</h1>
 <h3 align="center">A passionate fullstack web and blockchain developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whale-guru-dev&label=Profile%20views&color=0e75b6&style=flat" alt="whalegurudev" /> </p>
