@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whale-guru-dev" alt="whalegurudev" /></a> </p>
 
 
-- 💬 Ask me about **Angular, React, Vue, Nuxt, GraphQL, Ionic, React Native, NodeJs, NestJs, Typescript, Bitcoin, Ethereum, Solidity, Smart Contract, Blockchain**.
+- 💬 Ask me about **Angular, React, Vue, Next, Nuxt, GraphQL, Ionic, React Native, NodeJs, NestJs, Typescript, Bitcoin, Ethereum, Solidity, Smart Contract, Blockchain**.
 
 - 📫 How to reach me **masterionic@gmail.com**
 
